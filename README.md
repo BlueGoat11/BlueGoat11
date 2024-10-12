@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GoombaLuke11!
+- 👋 Hi, I’m @BlueGoat11!
 - 👀 I’m interested in javascript, python, and html.
 - 🌱 I’m currently learning Python.
 - 💞️ I love coding and am working on various projects.
