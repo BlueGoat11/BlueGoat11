@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GoombaLuke11!
 - 👀 I’m interested in javascript, python, and html.
 - 🌱 I’m currently learning Python.
-- 💞️ I love coding and am working on various projects, including a Python coding language called GoatScript.
+- 💞️ I love coding and am working on various projects.
 - 📫 You can reach me on my website at HTTP://lukeevanson.com!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am in 6th grade :)
