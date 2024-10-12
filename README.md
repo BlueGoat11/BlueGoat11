@@ -4,7 +4,7 @@
 - 💞️ I love coding and am working on various projects.
 - 📫 You can reach me on my website at HTTP://lukeevanson.com!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am in 6th grade :)
+- ⚡ Fun fact: I am in 7th grade :)
 
 <!---
 GoombaLuke11/GoombaLuke11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
