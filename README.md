@@ -4,7 +4,7 @@
 - 💞️ I love coding and am working on various projects.
 - 📫 You can reach me on my website at https://lukeevanson.com!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am in 7th grade :)
+- ⚡ Fun fact: I am in 8th grade :)
 
 <!---
 BlueGoat11/BlueGoat11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
